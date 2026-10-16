@@ -1,0 +1,8 @@
+NV001|Nguyen Van Chien|0981112223|Ky thuat Internet
+NV002|Tran Thi Mai|0982223334|Cham soc khach hang VIP
+NV003|Le Hoang Nam|0983334445|Khieu nai cuoc phi
+NV004|Pham Thu Ha|0984445556|Tu van goi cuoc di dong
+NV005|Hoang Minh Quan|0985556667|Ky thuat MyTV
+NV006|Vu Thi Lan|0986667778|Ho tro tieng Anh
+NV007|Bui Duc Thang|0987778889|Xu ly su co ha tang
+NV008|Ngo Lan Huong|0988889990|Tu van dich vu Cloud
