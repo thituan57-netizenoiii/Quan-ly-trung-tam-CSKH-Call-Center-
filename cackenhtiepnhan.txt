@@ -1,5 +1,0 @@
-K01|Hotline 18001091|Tong dai ho tro truc tiep
-K02|Zalo OA VinaPhone|Kenh nhan tin tuong tac
-K03|Web Chat CSKH|Chat trực tuyến tren website
-K04|Email Support|Gop y va khieu nai qua thu dien tu
-K05|Fanpage Facebook|Tu van va cham soc qua mang xa hoi
